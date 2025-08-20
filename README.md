@@ -18,5 +18,5 @@ My favorite shows are Murder drones, TADC, Sakamoto days, and The Underverse.
 [My Playlist](https://open.spotify.com/playlist/5Cw8HHRWzV0gV8sZtzBnbb?si=OUwpWG9MSb6EygSQ03FF2w)
 
 # Image collage
-![my collage]()
+![my collage](Collage.png)
 
